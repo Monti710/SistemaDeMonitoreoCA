@@ -14,7 +14,7 @@ const sensorData: Record<string, { fecha: string; valor: number }[]> = {
     "Temperatura": [
       { fecha: "2025-04-17", valor: 21 },
       { fecha: "2025-04-18", valor: 22 },
-      { fecha: "2025-04-19", valor: 23 },
+      { fecha: "2025-04-19", valor: 27 },
       { fecha: "2025-04-20", valor: 24 },
       { fecha: "2025-04-21", valor: 25 },
       { fecha: "2025-04-22", valor: 24 },
