@@ -8,9 +8,9 @@ import Configuracion from './pages/Configuracion';
 function App() {
   return (
     <Router>
-      <div className="flex">
+      <div className="flex bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-white h-screen overflow-hidden">
         <Sidebar />
-        <main className="flex-1 p-6 bg-gray-50 min-h-screen">
+        <main className="flex-1 p-6 overflow-y-auto">
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/historial" element={<Historial />} />
