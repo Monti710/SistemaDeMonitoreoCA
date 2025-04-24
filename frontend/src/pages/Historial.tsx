@@ -56,7 +56,7 @@ const sensorData: Record<string, { fecha: string; valor: number; hora: string }[
     { fecha: "2025-04-18", valor: 65, hora: "08:30" },
     { fecha: "2025-04-19", valor: 70, hora: "09:00" },
     { fecha: "2025-04-20", valor: 90, hora: "09:30" },
-    { fecha: "2025-04-21", valor: 80, hora: "10:00" },
+    { fecha: "2025-04-21", valor: 80, hora: "10:01" },
     { fecha: "2025-04-22", valor: 70, hora: "10:30" },
   ],
 };
